@@ -1,0 +1,15 @@
+.l_calc{
+    border: #000;
+    border-style: solid;
+    border-width: 1px;
+}
+.m_calc{
+    margin-top: 6px;
+    
+}
+.l_button{
+    border-radius: 4px;
+    color: #fff;
+    background-color: rgb(69, 68, 68);
+    
+}
