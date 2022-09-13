@@ -1,5 +1,5 @@
 import React from "react";
-import Button from './buttom';
+import Button from '../components/Button';
 import css from '../styles/layout.module.css';
 class Calc extends React.Component {
     constructor(props) {

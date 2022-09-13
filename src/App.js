@@ -1,5 +1,5 @@
 import './App.css';
-import Calc from './conponents/calc';
+import Calc from './pages/Calc';
 function App() {
   return (
     <div className="App">
